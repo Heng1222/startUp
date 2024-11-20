@@ -1,5 +1,12 @@
 # 2023資料創新應用競賽  騷年！你渴望創業嗎！？
 
+**架設環境**
+```
+XAMPP v3.3.0
+Apache & MYSQL
+```
+
+
 **頁面說明**
 
 + crawler.py:
@@ -14,17 +21,6 @@ map.php搜尋活動、課程、競賽的資料來源，資料欄位:
 
 `活動名稱 連結 開始時間	結束時間	主辦單位	連絡電話	聯絡Email 地點 費用 參加對象 縣市 類型`
 
-+ twzipcode.js:
-
-map.php同業別搜尋的選項資料，內有全台各縣市及其區的名冊
-
-+ headerCSS.css:
-
-header的CSS檔
-
-+ header.php:
-
-頁首
 
 + enroll.php:
 
@@ -34,13 +30,6 @@ header的CSS檔
 
 註冊頁後台處理
 
-+ login.php:
-
-登入頁
-
-+ logout.php
-
-登出頁
 
 + addResume.php:
 
@@ -62,10 +51,3 @@ header的CSS檔
 
 履歷查看頁
 
-+ isLogin.php
-
-登入狀態檢查，直接在需要檢查的頁面include
-
-+ linkDB.php
-
-連結資料庫的php程式碼
