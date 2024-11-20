@@ -1,13 +1,17 @@
 # 2023資料創新應用競賽  騷年！你渴望創業嗎！？
 
 **頁面說明**
+
 crawler.py:
 
-爬蟲Python程式檔，在page1變數放入網址(預設:https://sme.moeasmea.gov.tw/startup/modules/calendar/?start_date=2023-07-20&end_date=2023-12-31&page=1)，產生activites.csv檔案
+爬蟲Python程式檔，在page1變數放入網址
+
+(預設:https://sme.moeasmea.gov.tw/startup/modules/calendar/?start_date=2023-07-20&end_date=2023-12-31&page=1)，產生activites.csv檔案
 
 activites.csv:
 
 map.php搜尋活動、課程、競賽的資料來源，資料欄位:
+
 `活動名稱	連結	開始時間	結束時間	主辦單位	連絡電話	聯絡Email	地點	費用	參加對象	縣市	類型`
 
 twzipcode.js:
