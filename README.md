@@ -1,4 +1,4 @@
-##2023資料創新應用競賽  騷年！你渴望創業嗎！？
+#2023資料創新應用競賽  騷年！你渴望創業嗎！？
 
 crawler.py:
   爬蟲Python程式檔，在page1變數放入網址(預設:https://sme.moeasmea.gov.tw/startup/modules/calendar/?start_date=2023-07-20&end_date=2023-12-31&page=1)，產生activites.csv檔案
