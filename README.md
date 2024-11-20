@@ -14,59 +14,58 @@ map.php搜尋活動、課程、競賽的資料來源，資料欄位:
 
 `活動名稱 連結 開始時間	結束時間	主辦單位	連絡電話	聯絡Email 地點 費用 參加對象 縣市 類型`
 
-twzipcode.js:
++ twzipcode.js:
 
 map.php同業別搜尋的選項資料，內有全台各縣市及其區的名冊
 
-headerCSS.css:
++ headerCSS.css:
 
 header的CSS檔
 
-header.php:
++ header.php:
 
 頁首
 
-enroll.php:
++ enroll.php:
 
 註冊頁
 
-enrollCheck.php:
++ enrollCheck.php:
 
 註冊頁後台處理
 
-login.php:
++ login.php:
 
 登入頁
 
-logout.php
++ logout.php
 
 登出頁
 
-addResume.php:
++ addResume.php:
 
 新增履歷頁
 
-addResumeCheck.php
++ addResumeCheck.php
 
 新增履歷頁後台處理
 
-map.php:
++ map.php:
 
 地圖化資源頁
 
-myResume.php
++ myResume.php
 
 我的履歷頁(可以看到自己創立哪些履歷，可以點擊查看該履歷以及刪除)
 
-viewResume.php
++ viewResume.php
 
 履歷查看頁
 
-isLogin.php
++ isLogin.php
 
 登入狀態檢查，直接在需要檢查的頁面include
 
-linkDB.php
++ linkDB.php
 
 連結資料庫的php程式碼
-  連到DB的code，我把它單獨寫出來以免之後要改帳號什麼的很麻煩
