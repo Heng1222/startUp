@@ -20,8 +20,12 @@ Apache & MYSQL
 
 ## TGOS地圖
 
-本專案之地圖圖台以Tgos為主，並以其API操作
+本專案之地圖圖台以TGOs為主，並以其API操作
 >https://api.tgos.tw/TGOS_MAP_API/docs/site/web/Intro
+
+![image](https://github.com/Heng1222/startUp/blob/main/Readme_img/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-08-27%20223511.png)
+
+![image](https://github.com/Heng1222/startUp/blob/main/Readme_img/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-08-27%20223400.png)
 
 ## 技術
 
